@@ -1,2 +1,2 @@
 # Portfolio
-Code repository for Kartik Narayan's personal website.
+Code repository for Sadiq Siraj Ebrahim's personal website.
